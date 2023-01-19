@@ -1,4 +1,4 @@
-This folder shows how the figures (and related calculations) for the manuscript "The three regimes of spatial recovery" were done using Matlab.
+This folder shows how the figures (and related calculations) for the manuscript "How collectively integrated are ecological communities?" were done using Matlab.
 
 The scripts to directly use are: PrepCommunities.m, MakeFigures.m, Complexity.m
 The first script file creates many communities and calculations which the second file uses to produce Figs.2-5 in the paper. The third script file creates some communities to demonstrate how Fig.6 was done.
